@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ad4969-805e-4e17-839d-2fb6fbe5dc7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runners/aluminum_runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runners/browseruse_runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_login_aluminum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_login_browseruse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Infrastructure_QA_AI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Infrastructure_QA_AI.iml" afterDir="false" />
+    <list default="true" id="a1ad4969-805e-4e17-839d-2fb6fbe5dc7e" name="Changes" comment="Initial import of automation framework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aluminum/core/driver_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/aluminum/core/driver_wrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browseruse/browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/browseruse/browser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +30,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/aviel406/Infrastructure_QA_AI.git",
+    "url": "https://github.com/aviel406/Automation_Final_Project.git",
     "accountId": "76ba7e74-cce0-4aed-88a2-e2db0d44839d"
   }
 }]]></component>
@@ -87,6 +77,15 @@
       <option name="presentableId" value="Default" />
       <updated>1751532867770</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="Initial import of automation framework">
+      <option name="closed" value="true" />
+      <created>1752133150305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1752133150305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,7 +93,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -102,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial import of automation framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial import of automation framework" />
   </component>
 </project>
