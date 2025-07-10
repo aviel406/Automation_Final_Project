@@ -9,7 +9,7 @@
 
 ## Run tests
 ```bash
-pytest tests/ --html=reports/report.html --self-contained-html
+pytest tests/
 ```
 
 ## Project Structure
