@@ -1,0 +1,6 @@
+pytest
+pytest-html
+PyYAML
+aluminum
+browser-use
+selenium
